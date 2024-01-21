@@ -164,4 +164,6 @@ Follow our [Maestro Setup](https://ignitecookbook.com/docs/recipes/MaestroSetup)
 - [2016 aka Ignite 1.0](https://github.com/infinitered/ignite-ir-boilerplate-2016)
 
 ## **Screenshots**
+<img width="960" alt="Ubuntu- connecting aestro" src="https://github.com/satyajeet001/Ignite/assets/99283330/528b3b1c-1671-4290-a5fd-4ce1c10c9b4e">
+<img width="947" alt="Powershell" src="https://github.com/satyajeet001/Ignite/assets/99283330/469c7587-1f7e-4460-801a-74a3b5ced4f7">
 
